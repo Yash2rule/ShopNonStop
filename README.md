@@ -10,6 +10,13 @@ Also, when importing a file (not a package), be sure to add .js at the end or yo
 
 You can also install and setup Babel if you would like
 
+### Clone Repo
+
+```
+$ git clone https://github.com/Yash2rule/ShopNonStop.git
+$ cd project
+```
+
 ### Env Variables
 
 Create a .env file in then root and add the following
