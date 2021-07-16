@@ -62,6 +62,7 @@ npm run data:import
 npm run data:destroy
 ```
 
+You can use the following login credentials to test this application
 ```Sample User Logins
 
 admin@example.com (Admin)
@@ -73,5 +74,9 @@ john@example.com (Customer)
 jack@example.com (Customer)
 123456
 ```
+
+### License
+
+The MIT License
 
 
